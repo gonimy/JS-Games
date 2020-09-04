@@ -2,7 +2,7 @@
 
 
 
-## Home-Mass-Replication-of-Animated-Characters 
+## Home Mass Replication of Animated Characters 
 
 simple animated game where you loop through a frame and make the character walk 
 
